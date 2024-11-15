@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
     "objectID": "partners.html#forschungszentrum-jülich",
     "href": "partners.html#forschungszentrum-jülich",
     "title": "Network Partners",
@@ -54,5 +47,12 @@
     "title": "KB OpenBIB",
     "section": "Project Goals",
     "text": "Project Goals\nSpecifically, an open bibliometrics database based on OpenAlex is to be developed by the KB partners SUB Göttingen, Universität Bielefeld, FZ Jülich, GESIS and DZHW in collaboration with the KB hosting partner FIZ Karlsruhe and participation of further KB partners. The joint endeavour is pursuing four subsequent sub-goals:\n\nDatabase provision: Provision of a free and machine-readable developer instance of the bibliometric database OpenAlex as a basis for curating German publication data using an open licence.\nDatabase comparison: Comparative analysis of the coverage and quality of the open bibliometric database OpenAlex compared to the proprietary databases (Culbert et al. 2024).\nData curation: Development and application of technical procedures for curating the metadata of publications produced with the participation of authors from German research institutions.\nNetworking and usage: Identification of national and international re-use opportunities."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Back to top"
   }
 ]
