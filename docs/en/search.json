@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "partners.html#forschungszentrum-jülich",
+    "href": "partners.html#forschungszentrum-jülich",
+    "title": "Network Partners",
+    "section": "Forschungszentrum Jülich",
+    "text": "Forschungszentrum Jülich"
+  },
+  {
+    "objectID": "partners.html#gesis-leibniz-institut-für-sozialwissenschaften-e.v.",
+    "href": "partners.html#gesis-leibniz-institut-für-sozialwissenschaften-e.v.",
+    "title": "Network Partners",
+    "section": "GESIS – Leibniz-Institut für Sozialwissenschaften e.V.",
+    "text": "GESIS – Leibniz-Institut für Sozialwissenschaften e.V."
+  },
+  {
+    "objectID": "partners.html#gottingen-state-and-university-library",
+    "href": "partners.html#gottingen-state-and-university-library",
+    "title": "Network Partners",
+    "section": "Göttingen State and University Library",
+    "text": "Göttingen State and University Library"
+  },
+  {
+    "objectID": "partners.html#bielefeld-university",
+    "href": "partners.html#bielefeld-university",
+    "title": "Network Partners",
+    "section": "Bielefeld University",
+    "text": "Bielefeld University"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "KB OpenBIB",
+    "section": "",
+    "text": "The goal of the project is to establish an open bibliometrics database within the German Kompetenznetzwerk Bibliometrie. This will open up the possibility for the fields of higher education research and science studies to use innovative and open data sources as an alternative to proprietary bibliometrics databases. At the same time, the database promises an enhanced analysis potential with regard to publication venues and modes that are not covered in the proprietary data."
+  },
+  {
+    "objectID": "index.html#project-description",
+    "href": "index.html#project-description",
+    "title": "KB OpenBIB",
+    "section": "",
+    "text": "The goal of the project is to establish an open bibliometrics database within the German Kompetenznetzwerk Bibliometrie. This will open up the possibility for the fields of higher education research and science studies to use innovative and open data sources as an alternative to proprietary bibliometrics databases. At the same time, the database promises an enhanced analysis potential with regard to publication venues and modes that are not covered in the proprietary data."
+  },
+  {
+    "objectID": "index.html#project-goals",
+    "href": "index.html#project-goals",
+    "title": "KB OpenBIB",
+    "section": "Project Goals",
+    "text": "Project Goals\nSpecifically, an open bibliometrics database based on OpenAlex is to be developed by the KB partners SUB Göttingen, Universität Bielefeld, FZ Jülich, GESIS and DZHW in collaboration with the KB hosting partner FIZ Karlsruhe and participation of further KB partners. The joint endeavour is pursuing four subsequent sub-goals:\n\nDatabase provision: Provision of a free and machine-readable developer instance of the bibliometric database OpenAlex as a basis for curating German publication data using an open licence.\nDatabase comparison: Comparative analysis of the coverage and quality of the open bibliometric database OpenAlex compared to the proprietary databases (Culbert et al. 2024).\nData curation: Development and application of technical procedures for curating the metadata of publications produced with the participation of authors from German research institutions.\nNetworking and usage: Identification of national and international re-use opportunities."
+  }
+]

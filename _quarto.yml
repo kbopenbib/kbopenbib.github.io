@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  #reader-mode: true
+  back-to-top-navigation: true
+  #page-navigation: true
+  #page-footer: 
+  #  center: 
+  #    - href: impressum.qmd
+  #    - href: datenschutz.qmd
+  #margin-header: 
+  title: "KB OpenBIB"
+  navbar:
+    left:
+      #- href: partners.qmd
+      - href: publications.qmd
+  search: false
+  
+
+format:
+  html:
+    theme: sandstone
+    css: style.css
+    toc: false
+    #toc-location: left
+    grid:
+      sidebar-width: 50px
+      body-width: 850px
+      margin-width: 150px
+
+
+editor: visual
+
+babelquarto:
+  languagecodes:
+  - name: de
+    text: "DE"
+  - name: en
+    text: "EN"
+  mainlanguage: 'de'
+  languages: ['en']

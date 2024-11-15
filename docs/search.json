@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publikationen",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "partners.html#forschungszentrum-jülich",
+    "href": "partners.html#forschungszentrum-jülich",
+    "title": "Verbundpartner",
+    "section": "Forschungszentrum Jülich",
+    "text": "Forschungszentrum Jülich"
+  },
+  {
+    "objectID": "partners.html#gesis-leibniz-institut-für-sozialwissenschaften-e.v.",
+    "href": "partners.html#gesis-leibniz-institut-für-sozialwissenschaften-e.v.",
+    "title": "Verbundpartner",
+    "section": "GESIS – Leibniz-Institut für Sozialwissenschaften e.V.",
+    "text": "GESIS – Leibniz-Institut für Sozialwissenschaften e.V."
+  },
+  {
+    "objectID": "partners.html#niedersachsische-staats--und-universitatsbibliothek-gottingen",
+    "href": "partners.html#niedersachsische-staats--und-universitatsbibliothek-gottingen",
+    "title": "Verbundpartner",
+    "section": "Niedersächsische Staats- und Universitätsbibliothek Göttingen",
+    "text": "Niedersächsische Staats- und Universitätsbibliothek Göttingen"
+  },
+  {
+    "objectID": "partners.html#universität-bielefeld",
+    "href": "partners.html#universität-bielefeld",
+    "title": "Verbundpartner",
+    "section": "Universität Bielefeld",
+    "text": "Universität Bielefeld"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "KB OpenBIB",
+    "section": "",
+    "text": "Ziel des Entwicklungsprojektes ist der Aufbau einer offenen Bibliometriedatenbank innerhalb des Kompetenznetzwerks Bibliometrie. Dadurch wird die Möglichkeit für die Wissenschafts- und Hochschulforschung geschaffen, zur Förderung des Open-Science-Gedankens innovative und offene Datenquellen als Alternative zu den proprietären Bibliometriedatenbanken zu nutzen. Gleichzeitig verspricht der Aufbau einer frei zugänglichen Bibliometriedatenbank ein eigenständiges Analysepotential im Hinblick auf solche Publikationsorte und -weisen, die in den proprietären Daten nicht abgedeckt sind."
+  },
+  {
+    "objectID": "index.html#projektbeschreibung",
+    "href": "index.html#projektbeschreibung",
+    "title": "KB OpenBIB",
+    "section": "",
+    "text": "Ziel des Entwicklungsprojektes ist der Aufbau einer offenen Bibliometriedatenbank innerhalb des Kompetenznetzwerks Bibliometrie. Dadurch wird die Möglichkeit für die Wissenschafts- und Hochschulforschung geschaffen, zur Förderung des Open-Science-Gedankens innovative und offene Datenquellen als Alternative zu den proprietären Bibliometriedatenbanken zu nutzen. Gleichzeitig verspricht der Aufbau einer frei zugänglichen Bibliometriedatenbank ein eigenständiges Analysepotential im Hinblick auf solche Publikationsorte und -weisen, die in den proprietären Daten nicht abgedeckt sind."
+  },
+  {
+    "objectID": "index.html#projektziele",
+    "href": "index.html#projektziele",
+    "title": "KB OpenBIB",
+    "section": "Projektziele",
+    "text": "Projektziele\nKonkret wird innerhalb des Kompetenznetzwerks Bibliometrie eine offene Bibliometriedatenbank auf der Basis von OpenAlex kooperativ aufgebaut. Dabei verfolgt das Verbundprojekt der KB-Partner SUB Göttingen, Universität Bielefeld, FZ Jülich, GESIS und DZHW in Zusammenarbeit mit dem KB-Hosting Partner FIZ Karlsruhe und unter Einbezug weiterer KB-Partner folgende aufeinander abgestimmte Teilziele:\n\nDatenbankbereitstellung: Bereitstellung einer freien und maschinenlesbaren Entwickler-Instanz der Bibliometriedatenbank OpenAlex als Grundlage für die Kuratierung deutscher Publikationsdaten unter Nutzung einer offenen Lizenz.\nDatenbankvergleich: Vergleichende Analyse der Abdeckung und Qualität der offenen Bibliometriedatenbank OpenAlex gegenüber den proprietären Datenbanken (Culbert et al. 2024).\nDatenkuratierung: Entwicklung und Anwendung technischer Verfahren zur Kuratierung der Metadaten von Publikationen, die unter Beteiligung von Autor*innen deutscher Forschungseinrichtungen entstanden sind.\nVernetzung und Verwertung: Identifizierung von nationalen und internationalen Nachnutzungsmöglichkeiten."
+  }
+]
