@@ -14,8 +14,10 @@ website:
   title: "KB OpenBIB"
   navbar:
     left:
+      - href: index.qmd
+        text: Home
       #- href: partners.qmd
-      - href: publications.qmd
+      #- href: publications.qmd
   search: false
   
 

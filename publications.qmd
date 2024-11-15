@@ -1,3 +1,10 @@
 ---
 title: "Publikationen"
+bibliography: references.bib
+reference-section-title: ""
+nocite: |
+  @*
 ---
+
+::: {#refs}
+:::
