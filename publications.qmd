@@ -5,3 +5,6 @@ reference-section-title: ""
 nocite: |
   @*
 ---
+
+:::{#refs}
+:::
